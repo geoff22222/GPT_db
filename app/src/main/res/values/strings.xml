@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Encrypted Records</string>
+    <string name="enter_password">Enter database password</string>
+    <string name="open_database">Open Database</string>
+    <string name="record_name">Record name</string>
+    <string name="add_record">Add Record</string>
+    <string name="export_database">Export Encrypted Database</string>
+    <string name="manage_database">Manage Database</string>
+    <string name="records">Records</string>
+    <string name="password_required">Password required</string>
+    <string name="export_success">Exported database to Downloads</string>
+    <string name="export_failure">Failed to export database</string>
+</resources>
